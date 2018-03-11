@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapboxDemo</string>
+    //注册码
+    <string name="access_token">pk.eyJ1IjoiZXpyb2FkIiwiYSI6ImNqNjc1NHc3czAxcHYyeHJ5dnE3c21xM2oifQ.HxJTd0na3DENxYr2rGXfWw</string>
+
+    //楼层
+    <string name="firstFloorStyle">mapbox://styles/ezroad/cj6f12jsh1hzb2rqicvzj0gxy</string>
+
+    <string name="focusLat">34.635423993788606</string>
+    <string name="focusLon">119.20944410332515</string>
+</resources>
